@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: ""
 keyword: ""
-url: "https://jearol.github.io"              # your host, for absolute URL
+url: # your host, for absolute URL
 baseurl: "/huxblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: #
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
